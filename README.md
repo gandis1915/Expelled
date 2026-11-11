@@ -197,4 +197,4 @@ This repository serves as the official landing page for **Expelled!**. The softw
 **Get the most recent version of Expelled! today!**
 
 ---
-**Last updated:** 2026-11-10 20:21:54 UTC
+**Last updated:** 2026-11-11 01:08:19 UTC
